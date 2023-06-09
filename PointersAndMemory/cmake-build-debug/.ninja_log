@@ -1,0 +1,11 @@
+# ninja log v5
+0	402	7080424557288311	CMakeFiles/PointersAndMemory.dir/main.cpp.obj	c65fc80a37913d0a
+404	555	7080424558787155	PointersAndMemory.exe	44236c446e6e81d5
+3	322	7080424841796572	CMakeFiles/PointersAndMemory.dir/main.cpp.obj	c65fc80a37913d0a
+323	424	7080424842786907	PointersAndMemory.exe	44236c446e6e81d5
+3	341	7080434784033781	CMakeFiles/PointersAndMemory.dir/main.cpp.obj	c65fc80a37913d0a
+341	480	7080434785404055	PointersAndMemory.exe	44236c446e6e81d5
+2	303	7080435029620321	CMakeFiles/PointersAndMemory.dir/main.cpp.obj	c65fc80a37913d0a
+304	408	7080435030640325	PointersAndMemory.exe	44236c446e6e81d5
+3	311	7080435319527068	CMakeFiles/PointersAndMemory.dir/main.cpp.obj	c65fc80a37913d0a
+312	415	7080435320527372	PointersAndMemory.exe	44236c446e6e81d5
