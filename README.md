@@ -1,2 +1,2 @@
 # cpp-course
-Exercises from Learn Advanced Modern C++ on Udemy.
+Exercises, challenges and practice from Learn Advanced Modern C++ on Udemy.
