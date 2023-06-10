@@ -1,0 +1,9 @@
+# ninja log v5
+1	342	7081219144571902	CMakeFiles/StringLiterals.dir/main.cpp.obj	b58064cae82d92a6
+344	482	7081219145952283	StringLiterals.exe	2e68260bbb22362f
+3	288	7081219419682139	CMakeFiles/StringLiterals.dir/main.cpp.obj	b58064cae82d92a6
+288	401	7081219420782133	StringLiterals.exe	2e68260bbb22362f
+2	283	7081220252266739	CMakeFiles/StringLiterals.dir/main.cpp.obj	b58064cae82d92a6
+284	394	7081220253346739	StringLiterals.exe	2e68260bbb22362f
+3	294	7081220343974232	CMakeFiles/StringLiterals.dir/main.cpp.obj	b58064cae82d92a6
+294	402	7081220344996749	StringLiterals.exe	2e68260bbb22362f
