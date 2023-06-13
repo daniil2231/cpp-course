@@ -1,0 +1,21 @@
+# ninja log v5
+0	434	7083913170735177	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+436	601	7083913172375168	FileStreams.exe	808a3bf78eacce15
+7	359	7083913454392343	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+360	454	7083913455312333	FileStreams.exe	808a3bf78eacce15
+3	361	7083914025888394	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+363	474	7083914026988390	FileStreams.exe	808a3bf78eacce15
+2	372	7083914976716381	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+373	485	7083914977796762	FileStreams.exe	808a3bf78eacce15
+3	426	7083915356665263	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+426	540	7083915357780618	FileStreams.exe	808a3bf78eacce15
+3	418	7083917588502646	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+418	544	7083917589742647	FileStreams.exe	808a3bf78eacce15
+4	355	7083918299662803	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+355	450	7083918300592788	FileStreams.exe	808a3bf78eacce15
+3	389	7083922710650604	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+390	513	7083922711860591	FileStreams.exe	808a3bf78eacce15
+3	379	7083922936001817	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+379	497	7083922937151665	FileStreams.exe	808a3bf78eacce15
+3	438	7083924269695105	CMakeFiles/FileStreams.dir/main.cpp.obj	f563093a351dc6f8
+439	572	7083924270995092	FileStreams.exe	808a3bf78eacce15
