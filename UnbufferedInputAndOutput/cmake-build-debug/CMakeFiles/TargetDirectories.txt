@@ -1,0 +1,3 @@
+C:/Users/35988/CLionProjects/UnbufferedInputAndOutput/cmake-build-debug/CMakeFiles/UnbufferedInputAndOutput.dir
+C:/Users/35988/CLionProjects/UnbufferedInputAndOutput/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/35988/CLionProjects/UnbufferedInputAndOutput/cmake-build-debug/CMakeFiles/rebuild_cache.dir

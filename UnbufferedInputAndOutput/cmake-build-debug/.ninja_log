@@ -1,0 +1,9 @@
+# ninja log v5
+1	572	7084382084534399	CMakeFiles/UnbufferedInputAndOutput.dir/main.cpp.obj	af658f3dea70a653
+574	823	7084382087024390	UnbufferedInputAndOutput.exe	da790d95e98876bd
+6	459	7084388313885432	CMakeFiles/UnbufferedInputAndOutput.dir/main.cpp.obj	af658f3dea70a653
+460	612	7084388315385430	UnbufferedInputAndOutput.exe	da790d95e98876bd
+3	384	7084389503386654	CMakeFiles/UnbufferedInputAndOutput.dir/main.cpp.obj	af658f3dea70a653
+384	486	7084389504376674	UnbufferedInputAndOutput.exe	da790d95e98876bd
+3	386	7084390533309448	CMakeFiles/UnbufferedInputAndOutput.dir/main.cpp.obj	af658f3dea70a653
+387	498	7084390534399780	UnbufferedInputAndOutput.exe	da790d95e98876bd
